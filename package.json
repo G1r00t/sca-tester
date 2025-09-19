@@ -32,7 +32,17 @@
     "react-native-screens": "^3.18.2",
     "react-native-select-dropdown": "^3.3.3",
     "react-native-splash-screen": "^3.3.0",
-    "react-native-vector-icons": "^9.2.0"
+    "react-native-vector-icons": "^9.2.0",
+
+    "@ctrl/shared-torrent": "6.3.2",
+    "@ctrl/tinycolor": "4.1.2",
+    "@ctrl/torrent-file": "4.1.2",
+    "@ctrl/transmission": "7.3.1",
+    "@ctrl/ts-base32": "4.0.2",
+    "@hestjs/core": "0.2.1",
+    "@hestjs/cqrs": "0.1.6",
+    "@hestjs/demo": "0.1.2",
+    "@hestjs/eslint-config": "0.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
